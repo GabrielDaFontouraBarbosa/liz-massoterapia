@@ -1,0 +1,70 @@
+Crie um site institucional moderno para uma massoterapeuta, usando apenas HTML, CSS e JavaScript (sem backend).
+
+Requisitos gerais:
+- Visual moderno, limpo e profissional
+- Paleta de cores baseada em tons de verde (natureza, cura, equilíbrio)
+- Estilo contemporâneo (glassmorphism ou soft UI é bem-vindo, mas sem exageros)
+- Layout responsivo (mobile-first)
+- Código organizado e comentado
+- Pode usar bibliotecas via CDN (ex: AOS, Swiper, GSAP, Lucide Icons)
+
+Estrutura do site:
+1. Header fixo com:
+   - Logo em texto
+   - Menu desktop
+   - Menu hambúrguer animado no mobile
+   - Scroll suave ao clicar nos links
+
+2. Hero section:
+   - Headline forte focada em bem-estar e alívio de tensões
+   - Subtítulo persuasivo
+   - Botão de CTA ("Agendar sessão" / "Entrar em contato")
+   - Shapes orgânicos em SVG (ondas, folhas, curvas)
+   - Animação suave de entrada
+
+3. Seção "Sobre":
+   - Texto acolhedor explicando a abordagem da massoterapeuta
+   - Ícones ou ilustrações SVG remetendo à natureza e cura
+   - Layout em grid
+
+4. Seção "Serviços":
+   - Cards com hover animation
+   - Nome do serviço, breve descrição e benefício
+   - Transições suaves (ease-in-out)
+   - Ícones minimalistas
+
+5. Seção de benefícios:
+   - Lista visual com animações ao scroll
+   - Linguagem focada no cliente (menos técnica, mais sensação)
+
+6. Seção de depoimentos (fake/dummy):
+   - Slider/carrossel automático e manual
+   - Animação suave
+
+7. Seção CTA final:
+   - Frase emocional
+   - Botão destacado para contato
+
+8. Footer:
+   - Links rápidos
+   - Ícones sociais
+   - Estilo clean
+
+Funcionalidades e efeitos:
+- Scroll suave (CSS ou JS)
+- Animações ao rolar a página
+- Transições modernas nos botões e cards
+- Menu hambúrguer animado
+- Shapes e SVGs decorativos integrados ao layout
+- Tipografia moderna (Google Fonts)
+
+Tecnologias:
+- HTML semântico
+- CSS moderno (flexbox, grid, variáveis CSS)
+- JavaScript puro
+- Bibliotecas apenas via CDN
+
+Objetivo do site:
+- Manter o visitante mais tempo na página
+- Passar sensação de calma, confiança e profissionalismo
+- Conduzir o usuário até o CTA
