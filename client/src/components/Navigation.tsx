@@ -40,7 +40,7 @@ export function Navigation() {
             <Leaf className="w-6 h-6 text-primary" />
           </div>
           <span className="font-display font-bold text-xl md:text-2xl text-primary tracking-tight">
-            Natura Wellness
+            Liz-Massoterapeuta
           </span>
         </Link>
 

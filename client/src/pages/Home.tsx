@@ -215,13 +215,13 @@ export default function Home() {
                   <div className="w-10 h-10 rounded-full bg-white/20 flex items-center justify-center">
                     <Phone className="w-5 h-5" />
                   </div>
-                  <span>(11) 98765-4321</span>
+                  <span>+55 (21) 96652-3234</span>
                 </div>
                 <div className="flex items-center gap-4 text-lg">
                   <div className="w-10 h-10 rounded-full bg-white/20 flex items-center justify-center">
                     <Mail className="w-5 h-5" />
                   </div>
-                  <span>contato@naturawellness.com.br</span>
+                  <span>meloelizangelamelo@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-4 text-lg">
                   <div className="w-10 h-10 rounded-full bg-white/20 flex items-center justify-center">
@@ -238,6 +238,14 @@ export default function Home() {
                 <Button size="icon" variant="ghost" className="hover:bg-white/20 text-white rounded-full">
                   <Facebook className="w-6 h-6" />
                 </Button>
+                <a href="https://wa.me/5521966523234?text=Olá!%20Vim%20pelo%20site%20e%20gostaria%20de%20agendar%20uma%20sessão."
+                target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-8 inline-block px-6 py-3 rounded-full bg-green-500 hover:bg-green-600 text-white font-semibold transition"
+                >
+                Me chame no WhatsApp
+                </a>
+
               </div>
             </div>
             
@@ -251,11 +259,11 @@ export default function Home() {
         <div className="container mx-auto px-4 md:px-6 flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex items-center gap-2">
             <Leaf className="w-6 h-6 text-primary" />
-            <span className="font-display font-bold text-xl text-foreground">Natura Wellness</span>
+            <span className="font-display font-bold text-xl text-foreground">Liz Massoterapia</span>
           </div>
           
           <p className="text-sm text-muted-foreground text-center md:text-right">
-            &copy; {new Date().getFullYear()} Natura Wellness. Todos os direitos reservados.
+            &copy; {new Date().getFullYear()} Liz Massoterapia. Todos os direitos reservados.
           </p>
         </div>
       </footer>
